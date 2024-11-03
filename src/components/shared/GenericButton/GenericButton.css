@@ -1,0 +1,9 @@
+.GenericButton {
+  font-size: 20px;
+  padding: 3px 6px;
+  border-radius: 3px;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
